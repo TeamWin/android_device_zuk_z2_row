@@ -4,7 +4,7 @@
     "repository": "TeamWin/android_device_qcom_common",
     "target_path": "device/qcom/common",
     "revision":"android-7.1"
-  }
+  },
   {
     "remote":"github",
     "repository": "z2-dev/android_kernel_zuk_msm8996",
