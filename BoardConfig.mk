@@ -87,3 +87,4 @@ TW_THEME := portrait_hdpi
 TW_HAS_DOWNLOAD_MODE := true
 TW_INPUT_BLACKLIST := "hbtp_vm"
 TW_USE_TOOLBOX := true
+TW_EXCLUDE_MTP := true
